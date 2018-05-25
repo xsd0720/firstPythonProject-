@@ -1,1 +1,1 @@
-python demo
+django框架 demo
